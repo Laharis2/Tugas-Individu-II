@@ -15,4 +15,12 @@
  7. Perbedaan Phyton dan bahasa pemrograman lainya?
         Phyton itu sderhana/tidak ribet dan mudah dipahami, sementara Bahasa Pemrograman lainnya untuk menampilkan outputnya ribet sekali.
  8. Perbedaan IDE dan _Text editor_ beserta contohnya?
+        IDE lebih banyak mengandung fitur seperti _compailer,editor,Linker dan Dabuger sementara _Text Editor_ hamya untuk mengedit sebuah _plaint_ saja tanpa ada _compailer_. contoh _Text editor_: Notepad++, Visual Studio Editor, Netbeans dll, sementara contoh IDE: Intelijs IDE, Netbeans IDE, Nodejs, dan Reactjs.
+  9. IDE dan Text editor khusus untuk Python?
+        IDE khusus untuk Python: Jupyter, PyChram, Rodeo, Visual Studio Code, Spyder. Editor Text khusus Python NotePad++.
+  10. Perbedaan bahasa Natural, Algoritma, Flowchart, Pseudocode?
+        a. bahasa natural : bahasa sehari hari yang digunakan manusia.
+        b. Algoritma : langkah langkah yang terstruktur untuk menyelesaikan masalah 
+        c. Flowchart : bagan alir untuk menyelesaikan masalah
+        d. Pseudocode : algoritma yang dibuat secara singkat dan bisa dibaca oleh manusia yang bahasanya mendekati dengn logika komputer.
         
